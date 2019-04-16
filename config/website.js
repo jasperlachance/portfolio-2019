@@ -7,7 +7,7 @@ module.exports = {
   siteTitleAlt: 'Jasper LaChance', // Alternative Site title for SEO
   siteTitleShort: 'Jasper LaChance', // short_name for manifest
   siteHeadline: 'Creating marvelous art & blazginly fast websites and apps.', // Headline for schema.org JSONLD
-  siteUrl: 'http://jasperlachance.com', // Domain of your site. No trailing slash!
+  siteUrl: 'https://jasperlachance.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logo.png', // Used for SEO and manifest
   siteDescription: 'Creating marvelous art & blazginly fast websites and apps.',
