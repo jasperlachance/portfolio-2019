@@ -87,7 +87,11 @@ const Index = () => (
           <ProjectCard title="SAM" link="https://samdesk.io" bg="linear-gradient(to right, #1CB469 0%, #76D2A5 100%)">
             UX Design and Front-End Dev for security alerting and awareness platform.
           </ProjectCard>
-          <ProjectCard title="Mytic Rebels" link="#" bg="linear-gradient(to right, #F8B700 0%, #FAD366 100%)">
+          <ProjectCard
+            title="Mytic Rebels"
+            link="http://mysticrebels.net"
+            bg="linear-gradient(to right, #F8B700 0%, #FAD366 100%)"
+          >
             A website designed and developed for a World of Warcraft guild.
           </ProjectCard>
         </ProjectsWrapper>
