@@ -75,24 +75,24 @@ const Index = () => (
             link="https://mogul.global"
             bg="linear-gradient(to right, #373B57 0%, #5F6278 100%)"
           >
-            UX Design and Creative Direction for innovative e-learning platform, Mogul.
+            Product and UX Design and creactive direction for the Mogul app, Mogul admin tool, and all other projects under the Mogul brand.
           </ProjectCard>
           <ProjectCard
             title="Quack Worlds"
-            link="http://quackworlds.com"
+            link="https://www.quackworlds.com"
             bg="linear-gradient(to right, #4e54c8 0%, #8f94fb 100%)"
           >
-            Website design, development and games server setup and administration.
+            Brand and website design, development and Minecraft multiplayer server architecture setup and administration and community management.
           </ProjectCard>
           <ProjectCard title="SAM" link="https://samdesk.io" bg="linear-gradient(to right, #1CB469 0%, #76D2A5 100%)">
-            UX Design and Front-End Dev for security alerting and awareness platform.
+            Product and UX Design for the app, brand, and websites during a transition from a journliast CMS to aa AI powered social alerting platform.
           </ProjectCard>
           <ProjectCard
             title="Mytic Rebels"
             link="http://mysticrebels.net"
             bg="linear-gradient(to right, #F8B700 0%, #FAD366 100%)"
           >
-            A website designed and developed for a World of Warcraft guild.
+            Website design and creative direction for the web presence of an online World of Warcraft gaming community as well as community management.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
